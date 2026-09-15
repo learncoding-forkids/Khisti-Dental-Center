@@ -533,7 +533,7 @@ a {
 
 .feature-divider-bottom {
     width: 95%;
-    max-width: 1350px;
+    max-width: 300px;
     height: 3px;
     background: #d9a62e;
     margin: 0 auto 30px;
